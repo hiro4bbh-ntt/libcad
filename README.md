@@ -1,4 +1,5 @@
 # libcad
+![rust workflow](https://github.com/hiro4bbh-ntt/libcad/actions/workflows/rust.yml/badge.svg)
 
 
 ## Abstract
