@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["bitfield","The bit field module."],["syntax","The syntax of the input language used by MSSS."],["union_find","The union-find data structure module."]],"struct":[["Solver","A solver."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["DisplayIter","A wrapper object for displaying objects in the iterator."],["DisplayMapIter","A wrapper object for displaying objects in the iterator on a map object."]]});

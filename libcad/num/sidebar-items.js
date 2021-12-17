@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["bitlsh","Returns the number `n` logically shifted by `shift`."]]});

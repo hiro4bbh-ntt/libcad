@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Cond","A condition."],["CondConst","A constant in conditions."],["CondExpr","An expression in conditions."],["CondPred","A predicate in conditions."]],"struct":[["CondVar","A variable in conditions."]]});

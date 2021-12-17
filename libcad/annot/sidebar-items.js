@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["syntax","The syntax of an annotation."]],"struct":[["AnnotFile","A annotation file."]]});

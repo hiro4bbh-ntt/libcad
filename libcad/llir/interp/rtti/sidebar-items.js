@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ExtName","A extension name of a runtime type."]],"struct":[["ExtIdent","A extension identifier of a runtime type."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["InternMode","A mode of the intern operation."]],"struct":[["TypeEnv","A typing environment which implements the structural typing."]]});
